@@ -4,7 +4,6 @@
 - 📄 [Resume](https://drive.google.com/file/d/1yLuJXtiNa5Xw-8s7TaEsr7a4YwNgstRm/view?usp=share_link)
 -    📞 - +1-6692041615
 -    ✉️ - desaij97@gmail.com
--    
 
 <!---
 j-desai/j-desai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
