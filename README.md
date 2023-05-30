@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jigar Desai
-- 👀 I’m a Software Engineering graduate student at San Jose State University.
+- 👀 I’m a MS Software Engineering graduate from San Jose State University.
 - 👨🏻‍💻 I’m currently looking for entry level SDE (Full-stack, backend) or ML Engineer/Data Scientist roles.
-- 📄 [Resume](https://drive.google.com/file/d/1yLuJXtiNa5Xw-8s7TaEsr7a4YwNgstRm/view?usp=share_link)
+- 📄 [Resume](https://drive.google.com/file/d/1DVo7NRv5fxHbjTQzppQMN6djPCbyqy59/view?usp=share_link)
 -    📞 - +1-6692041615
 -    ✉️ - desaij97@gmail.com
 
